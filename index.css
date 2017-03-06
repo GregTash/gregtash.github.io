@@ -1,3 +1,4 @@
-element.style {
-	color: green;
+body {
+	display: block;
+	margin: 8px;
 }
